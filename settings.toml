@@ -1,0 +1,8 @@
+[project]
+main_keyword      = "Piggy Kingdom Game"   # e.g. "lucidchart full version free download"
+app_name          = "Piggy Kingdom"   # e.g. "LucidChart"
+short_description = "Piggy Kingdom Game is an engaging and strategic adventure where players build, explore, and conquer a whimsical world."   # e.g. "Professional diagramming tool for flowcharts and mind maps"
+meta_description  = "Explore the Piggy Kingdom Game documentation site for a comprehensive download guide, detailed features overview, and an informative FAQ to enhance your gaming experience."   # 150-300 chars — shown in Google search results
+release_date      = "2026-04-08"   # e.g. "2026-04-07"
+
+additional_pages = ["piggy kingdom android", "piggy kingdom iOS"]
